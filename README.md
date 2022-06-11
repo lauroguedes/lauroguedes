@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lauroguedes
 - 👀 I’m interested in web tecnologies (PHP, VueJS, Laravel...)
-- 🌱 I’m currently learning remix and fluter
+- 🌱 I’m currently learning REMIX and FLUTER
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->
