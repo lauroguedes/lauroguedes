@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lauroguedes
-- 👀 I’m interested in web tecnologies (PHP, VueJS, Laravel...)
+- 👀 I’m interested in web tecnologies (PHP, VueJS, Laravel, Tailwind CSS...)
 - 🌱 I’m currently learning REMIX and FLUTER
 <!---
 - 💞️ I’m looking to collaborate on ...
