@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lauroguedes
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c5fe8d27-c6d8-4536-bb82-6b079464e1be" />
+
 - 👀 I’m interested in web tecnologies (PHP, VueJS, Laravel, Tailwind CSS...)
-- 🌱 I’m currently learning ASTRO and FLUTER
-- 🧑‍💻 Hire me for some work https://app.vibbra.com.br/#/profile/lauro-1679081384
+- 🌱 I’m currently learning [ASTRO](https://astro.build/) and [Filament](https://filamentphp.com/)
 - 📫 How to reach me https://lauroguedes.dev
 <!---
 lauroguedes/lauroguedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
