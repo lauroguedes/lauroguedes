@@ -1,9 +1,10 @@
-<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/e7fdab8b-e330-4d79-834d-d4c95aebb7dc" />
+<img width="2508" height="627" alt="GitHub header banner" src="https://github.com/user-attachments/assets/973f6a28-40ca-481c-a357-86d4981ad004" />
 
 ***
 
 - 👀 I’m interested in web tecnologies (PHP, VueJS, Laravel, Tailwind CSS...)
 - 🌱 I’m currently learning [ASTRO](https://astro.build/) and [Filament](https://filamentphp.com/)
+- 🤖 AI Builder
 - 📫 How to reach me https://lauroguedes.dev
 <!---
 lauroguedes/lauroguedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
